@@ -16,6 +16,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-![image](https://github.com/user-attachments/assets/5743715b-d977-48ec-98d4-7a736b1a35bc)
+
 
 </div>
